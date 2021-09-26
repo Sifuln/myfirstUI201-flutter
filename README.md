@@ -1,6 +1,11 @@
 # hello_app
 
-Siful hello world app
+Product details page - 
+Content list - 
+  #1 Image 
+  #2 product description 
+  #3 add button . 
+This is my first practise UI for flutter. i am using few types of widget on here.i am getting help from many youtube channel like afran sarkar. 
 
 ## Getting Started
 
