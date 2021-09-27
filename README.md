@@ -7,6 +7,8 @@ Content list -
   #3 add button . 
 This is my first practise UI for flutter. i am using few types of widget on here.i am getting help from many youtube channel like afran sarkar. 
 
+https://github.com/Sifuln/myfirstUI201-flutter/blob/main/output.png
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
