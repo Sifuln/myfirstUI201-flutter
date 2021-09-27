@@ -7,7 +7,7 @@ Content list -
   #3 add button . 
 This is my first practise UI for flutter. i am using few types of widget on here.
 
-Design:
+Design Overview:
 <img src="https://github.com/Sifuln/myfirstUI201-flutter/blob/main/output.png" alt="Design 1" style="max-width: 100%;" width="300px" height="500px">
 
 Inspired from a youtube channel : Afran Sarkar
